@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/farhan-shahriar-shihab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/iamfarhan99">
     <img src="https://img.shields.io/badge/GitHub-iamfarhan99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -29,7 +26,7 @@
 ## 🧰 Skills & Technologies
 
 **Programming**
-  
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
