@@ -1,9 +1,9 @@
-<h1 align="left">👋 Hi, I'm Md. Farhan Shahriar Shihab</h1>
+<h1 align="left">👋 Hi, I'm Md Farhan Shahriar Shihab</h1>
 
-<h3 align="left">EEE Student at BRAC University | Robotics & Embedded Systems</h3>
+<h3 align="left">🎓 Electrical & Electronic Engineering (EEE) Student at BRAC University</h3>
 
 <p align="left">
-  I am an Electrical and Electronic Engineering student interested in robotics, embedded systems, and electronics. I enjoy building practical projects and learning through hardware implementation, programming, and experimentation.
+  I am interested in robotics, embedded systems, and electronics. I enjoy building practical projects and learning through hardware implementation, programming, and experimentation.
 </p>
 
 <p align="left">
