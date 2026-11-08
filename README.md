@@ -34,10 +34,10 @@ A Bluetooth-controlled soccer robot developed for robotics competition activitie
 - Participated in the BRACU ROBU League 2026 Soccer Bot Competition as a team project.
 
 ### [Bluetooth-Controlled RC Car](https://github.com/iamfarhan99/bluetooth-rc-car)
-A 4WD Bluetooth-controlled car developed as a group project during the Basics of Robotics course at BRAC University.
+A Bluetooth-controlled, four-motor RC car developed as a group project during the Basics of Robotics course at BRAC University.
 
 - Arduino Nano, HC-05 Bluetooth module, N20 geared motors, and L298N motor driver.
-- Secured first place in the class racing event.
+- The team won the class racing event.
 
 ### [8-Bit Digital Security Lock](https://github.com/iamfarhan99/8-Bit-Digital-Security-Lock)
 An academic digital logic project designed and simulated using Proteus 8.
@@ -52,8 +52,8 @@ BRAC University, Bangladesh
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/farhan-shahriar-shihab](https://www.linkedin.com/in/farhan-shahriar-shihab)
 - **GitHub:** [github.com/iamfarhan99](https://github.com/iamfarhan99)
+- **LinkedIn:** Add your LinkedIn profile URL here.
 
 ---
 
