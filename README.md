@@ -54,27 +54,18 @@
 
 ---
 
-<h2>🛠️ Featured Projects</h2>
+<h2>📂 Projects</h2>
 
 <h3>⚽ <a href="https://github.com/iamfarhan99/ESP32-based-Soccer-Bot">ESP32-Based Soccer Bot</a></h3>
-<p>Bluetooth-controlled soccer robot built around ESP32. Participated in the BRACU ROBU League 2026 Soccer Bot Competition.</p>
+<p>ESP32-powered Bluetooth-controlled soccer robot; competed in the BRACU ROBU League 2026.</p>
 
 <h3>🚗 <a href="https://github.com/iamfarhan99/bluetooth-rc-car">Bluetooth-Controlled RC Car</a></h3>
-<p>Four-motor Bluetooth-controlled car developed during the Basics of Robotics course at BRAC University. Our team won the class racing event.</p>
+<p>Four-motor Bluetooth RC car built during the Basics of Robotics course; our team won the class race.</p>
 
 <h3>🔐 <a href="https://github.com/iamfarhan99/8-Bit-Digital-Security-Lock">8-Bit Digital Security Lock</a></h3>
-<p>Digital Logic Design project featuring password verification, a three-attempt lockout, and reset functionality.</p>
+<p>Proteus-based digital lock with password verification, three-attempt lockout, and reset functionality.</p>
 
 ---
-
-<h2>🎯 Areas of Interest</h2>
-
-- Robotics & Embedded Systems
-- Microcontroller-Based Development
-- Motor Control & Automation
-- Electronics & Circuit Design
-- Digital Logic & Digital System Design
-- Power Systems
 
 <h2>🎓 Education</h2>
 
