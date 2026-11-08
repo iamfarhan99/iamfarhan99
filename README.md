@@ -1,4 +1,4 @@
-<h1 align="left">Md. Farhan Shahriar Shihab</h1>
+<h1 align="left">👋 Hi, I'm Md. Farhan Shahriar Shihab</h1>
 
 <h3 align="left">EEE Student at BRAC University | Robotics & Embedded Systems</h3>
 
@@ -54,16 +54,31 @@
 
 ---
 
-<h2>📂 Projects</h2>
+<h2>📁 Projects</h2>
 
-<h3>⚽ <a href="https://github.com/iamfarhan99/ESP32-based-Soccer-Bot">ESP32-Based Soccer Bot</a></h3>
-<p>ESP32-powered Bluetooth-controlled soccer robot; competed in the BRACU ROBU League 2026.</p>
+<p>
+  <a href="https://github.com/iamfarhan99/ESP32-based-Soccer-Bot">
+    <img src="https://img.shields.io/badge/ESP32_Soccer_Bot-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="ESP32 Soccer Bot project" />
+  </a>
+  <br />
+  Bluetooth-controlled soccer robot built with ESP32; participated in the BRACU ROBU League 2026.
+</p>
 
-<h3>🚗 <a href="https://github.com/iamfarhan99/bluetooth-rc-car">Bluetooth-Controlled RC Car</a></h3>
-<p>Four-motor Bluetooth RC car built during the Basics of Robotics course; our team won the class race.</p>
+<p>
+  <a href="https://github.com/iamfarhan99/bluetooth-rc-car">
+    <img src="https://img.shields.io/badge/Bluetooth_RC_Car-View_Project-176B87?style=for-the-badge&logo=github&logoColor=white" alt="Bluetooth RC Car project" />
+  </a>
+  <br />
+  Four-motor Arduino-based RC car developed during the Basics of Robotics course; our team won the class race.
+</p>
 
-<h3>🔐 <a href="https://github.com/iamfarhan99/8-Bit-Digital-Security-Lock">8-Bit Digital Security Lock</a></h3>
-<p>Proteus-based digital lock with password verification, three-attempt lockout, and reset functionality.</p>
+<p>
+  <a href="https://github.com/iamfarhan99/8-Bit-Digital-Security-Lock">
+    <img src="https://img.shields.io/badge/8_Bit_Digital_Lock-View_Project-5B4B8A?style=for-the-badge&logo=github&logoColor=white" alt="8-Bit Digital Security Lock project" />
+  </a>
+  <br />
+  Digital password lock with a three-attempt lockout and reset functionality, designed in Proteus.
+</p>
 
 ---
 
