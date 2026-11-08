@@ -1,88 +1,86 @@
-<h1 align="center">👋 Hi, I'm Farhan</h1>
+<h1 align="left">Md. Farhan Shahriar Shihab</h1>
 
-<h3 align="center">EEE Student at BRAC University | Robotics & Embedded Systems</h3>
+<h3 align="left">EEE Student at BRAC University | Robotics & Embedded Systems</h3>
 
-<p align="center">
-  Interested in building practical projects with microcontrollers, electronics, and embedded systems.
-  I enjoy taking ideas from circuit design and programming to hardware implementation and testing.
+<p align="left">
+  I am an Electrical and Electronic Engineering student interested in robotics, embedded systems, and electronics. I enjoy building practical projects and learning through hardware implementation, programming, and experimentation.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/iamfarhan99">
     <img src="https://img.shields.io/badge/GitHub-iamfarhan99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/farhan-shahriar-shihab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
 - 🎓 Studying **Electrical and Electronic Engineering (EEE)** at **BRAC University**.
 - 🤖 Interested in **Robotics, Embedded Systems, and Electronics**.
 - 🔧 Enjoy working with microcontrollers, motor drivers, and hardware integration.
-- 💡 Exploring practical applications of digital logic, circuit simulation, and engineering tools.
+- 💡 Exploring digital logic, circuit simulation, and engineering applications.
 - 🤝 Open to collaborating on robotics and electronics projects.
 
-## 🧰 Skills & Technologies
+---
 
-**Programming**
+<h2>🧰 Skills & Technologies</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<h3>💻 Programming & Web</h3>
 
-**Embedded Systems & Hardware**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<h3>🔌 Embedded Systems & Hardware</h3>
 
-**Circuit Design & Simulation**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square)
 
-![Proteus](https://img.shields.io/badge/Proteus-Engineering%20Simulation-245A9A?style=flat-square)
-![PSpice](https://img.shields.io/badge/PSpice-Circuit%20Simulation-245A9A?style=flat-square)
+<h3>📐 Circuit Design & Simulation</h3>
 
-**Engineering & Design Tools**
+![Proteus](https://img.shields.io/badge/Proteus-245A9A?style=flat-square)
+![PSpice](https://img.shields.io/badge/PSpice-245A9A?style=flat-square)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-Analysis-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![PowerWorld](https://img.shields.io/badge/PowerWorld-Simulator-356A9A?style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat-square&logo=canva&logoColor=white)
+<h3>📊 Engineering & Design Tools</h3>
 
-## 🛠️ Featured Projects
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![PowerWorld Simulator](https://img.shields.io/badge/PowerWorld%20Simulator-356A9A?style=flat-square)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square)
 
-### ⚽ [ESP32-Based Soccer Bot](https://github.com/iamfarhan99/ESP32-based-Soccer-Bot)
-A Bluetooth-controlled soccer robot developed for robotics competition activities.
+---
 
-- ESP32-based control system with dual BTS7960 motor drivers.
-- Worked on firmware, motor control, wiring, and hardware integration.
-- Participated as a team project in the **BRACU ROBU League 2026 Soccer Bot Competition**.
+<h2>🛠️ Featured Projects</h2>
 
-### 🚗 [Bluetooth-Controlled RC Car](https://github.com/iamfarhan99/bluetooth-rc-car)
-A four-motor Bluetooth-controlled car developed during the Basics of Robotics course at BRAC University.
+<h3>⚽ <a href="https://github.com/iamfarhan99/ESP32-based-Soccer-Bot">ESP32-Based Soccer Bot</a></h3>
+<p>Bluetooth-controlled soccer robot built around ESP32. Participated in the BRACU ROBU League 2026 Soccer Bot Competition.</p>
 
-- Built using Arduino Nano, HC-05 Bluetooth module, four N20 geared motors, and an L298N motor driver.
-- Our team won the class racing event.
+<h3>🚗 <a href="https://github.com/iamfarhan99/bluetooth-rc-car">Bluetooth-Controlled RC Car</a></h3>
+<p>Four-motor Bluetooth-controlled car developed during the Basics of Robotics course at BRAC University. Our team won the class racing event.</p>
 
-### 🔐 [8-Bit Digital Security Lock](https://github.com/iamfarhan99/8-Bit-Digital-Security-Lock)
-An academic Digital Logic Design project developed and simulated using Proteus 8.
+<h3>🔐 <a href="https://github.com/iamfarhan99/8-Bit-Digital-Security-Lock">8-Bit Digital Security Lock</a></h3>
+<p>Digital Logic Design project featuring password verification, a three-attempt lockout, and reset functionality.</p>
 
-- Designed an 8-bit password-based digital lock.
-- Locks after three incorrect password attempts and includes a reset function.
+---
 
-## 🎯 Areas of Interest
+<h2>🎯 Areas of Interest</h2>
 
-- Robotics and Embedded Systems
+- Robotics & Embedded Systems
 - Microcontroller-Based Development
-- Motor Control and Automation
-- Electronics and Circuit Design
-- Digital Logic and Digital System Design
+- Motor Control & Automation
+- Electronics & Circuit Design
+- Digital Logic & Digital System Design
 - Power Systems
 
-## 🎓 Education
+<h2>🎓 Education</h2>
 
 **BSc in Electrical and Electronic Engineering (EEE)**  
 BRAC University, Bangladesh
 
 ---
 
-<p align="center">
-  <i>Learning by building. Improving through every project.</i>
-</p>
+<p align="left"><i>Learning by building. Improving through every project.</i></p>
